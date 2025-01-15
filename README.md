@@ -14,8 +14,8 @@ Follow these steps to set up the project:
 
 1. **Clone the Repository**  
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/Puzan789/Bookingagents
+   cd user_booking
    ```
 
 2. **Install Requirements**  
@@ -38,21 +38,21 @@ Follow these steps to set up the project:
 
 ---
 
+## Diagram
+
+The architecture and flow of the agents are illustrated in the diagram below:
+
+![alt text](image.png)
+
+---
+
+
 ## Features
 
-- **User Information Extraction:** Extracts and organizes user details efficiently.
+- **User Information Extraction:** Extracts  user details efficiently.
 - **Appointment Booking:** Simplifies scheduling processes with automated workflows.
 - **Document Retrieval and RAG:** Combines information retrieval with language generation for better context understanding.
 - **LangGraph Agents Integration:** Employs agents for modular, flexible task execution.
 
 ---
 
-## Diagram
-
-The architecture and flow of the agents are illustrated in the diagram below:
-
-(*Include your agents' diagram here when ready.*)
-
----
-
-Let me know if you’d like any additional sections or revisions!
