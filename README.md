@@ -42,7 +42,8 @@ Follow these steps to set up the project:
 
 The architecture and flow of the agents are illustrated in the diagram below:
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/2898aafd-a924-434f-b650-65693b26178d)
+
 
 ---
 
